@@ -1,0 +1,217 @@
+.ncc-about {
+  background-color: #0c49a4;
+  font-size: 50px;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  color: #e3edf8;
+  padding: 160px 20px 80px;
+}
+
+.more {
+  background-color: #0c49a4;
+  color: #e3edf8;
+  text-align: center;
+}
+
+.small-text {
+  color: rgb(0, 123, 255);
+  font-size: 35px;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  color: #0475f7;
+  padding: 50px;
+}
+
+.big-text {
+  font-size: 20px;
+  padding: 35px;
+}
+
+.blue-section {
+  background-color: #e3edf8;
+}
+
+.text-above-card-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.blue-top {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 35px;
+  margin-top: 100px;
+  font-weight: 400;
+  color: #1a3683;
+}
+
+.grey-bottom {
+  color: #272525a9;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.cards-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin: 40px 8% 80px 8%;
+  align-items: start;
+}
+
+.first-card-box {
+  background-color: #ffffff;
+  padding: 50px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.second-card-box {
+  background-color: #ffffff;
+  padding: 50px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.first-card-box p,
+.second-card-box p {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.first-word {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  color: #1a365d;
+  margin-bottom: 24px;
+}
+
+.second-word {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 18px;
+  color: #4a5568;
+  margin-bottom: 0;
+}
+
+.word1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  color: #1a365d;
+  margin-bottom: 24px;
+}
+
+.word2 {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 800;
+  color: #3b82f6;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.word3 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 600;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: -0.2px;
+}
+
+.word4 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 18px;
+  color: #4a5568;
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .cards-section {
+    grid-template-columns: 1fr;
+  }
+}
+
+.footer-container {
+  background-color: #2965bf;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+  color: #f9f9f9;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.first {
+  font-weight: bold;
+}
+
+.address {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.phone {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.email {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.second {
+  font-weight: bold;
+}
+
+.time {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.bible-study {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.third {
+  font-weight: bold;
+}
+
+.link {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.link2 {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.link3 {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.link4 {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.link5 {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.fourth {
+  font-weight: bold;
+}
+
+.platform {
+  font-size: 15px;
+  margin-top: 8px;
+}

@@ -1,0 +1,68 @@
+.ncc-events {
+  background-color: #0c49a4;
+  font-size: 50px;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  color: #e3edf8;
+  padding: 160px 20px 80px;
+}
+
+.events-here {
+  background-color: #0c49a4;
+  color: #e3edf8;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.first-card-box p,
+.second-card-box p,
+.third-cardbox p {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.first-word {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  color: #1a365d;
+  margin-bottom: 24px;
+}
+
+.second-word {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 18px;
+  color: #4a5568;
+  margin-bottom: 0;
+}
+
+.third-word {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 18px;
+  color: #4a5568;
+  margin-bottom: 0;
+}
+
+.word1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  color: #1a365d;
+  margin-bottom: 24px;
+}
+
+.word2 {
+  font-family: "Josefin Sans", sans-serif;
+  color: #4a5568;
+  margin-bottom: 24px;
+}
+
+.first1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+  color: #1a365d;
+  margin-bottom: 24px;
+}
+
+.second2 {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.5px;
+}

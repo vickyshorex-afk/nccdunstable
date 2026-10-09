@@ -1,0 +1,65 @@
+.ncc-events {
+  background-color: #0c49a4;
+  font-size: 50px;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  color: #e3edf8;
+  padding: 160px 20px 80px;
+}
+
+.events-here {
+  background-color: #0c49a4;
+  color: #e3edf8;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.blue-section {
+  background-color: #e3edf8;
+}
+
+.text-above-card-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.blue-top {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 35px;
+  margin-top: 100px;
+  font-weight: 400;
+  color: #1a3683;
+}
+
+.grey-bottom {
+  color: #272525a9;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.cards-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin: 40px 8% 80px 8%;
+  align-items: start;
+}
+
+.first-card-box {
+  background-color: #ffffff;
+  padding: 50px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.second-card-box {
+  background-color: #ffffff;
+  padding: 50px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
