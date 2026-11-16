@@ -1,17 +1,17 @@
-.ncc-events {
+.contact-here {
+  background-color: #0c49a4;
+  color: #e3edf8;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.ncc-contact {
   background-color: #0c49a4;
   font-size: 50px;
   font-family: "Jost", sans-serif;
   text-align: center;
   color: #e3edf8;
   padding: 160px 20px 80px;
-}
-
-.events-here {
-  background-color: #0c49a4;
-  color: #e3edf8;
-  text-align: center;
-  font-family: "Josefin Sans", sans-serif;
 }
 
 .blue-section {
@@ -43,8 +43,6 @@
 }
 
 .cards-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 40px;
   margin: 40px 8% 80px 8%;
   align-items: start;
@@ -58,6 +56,13 @@
 }
 
 .second-card-box {
+  background-color: #ffffff;
+  padding: 50px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.first-card-box {
   background-color: #ffffff;
   padding: 50px 40px;
   border-radius: 8px;
